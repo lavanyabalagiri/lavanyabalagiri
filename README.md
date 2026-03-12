@@ -1,28 +1,103 @@
-# Hi, I'm Lavanya 👋
+# Hi there 👋 I'm Lavanya
 
-Full Stack Developer with 4+ years experience building scalable web applications.
+Full Stack Developer with 4+ years of experience building scalable web applications using modern web technologies.
+
+---
+
+## 👩‍💻 About Me
+
+- 💻 Full Stack Developer
+- ⚡ Experienced in building scalable web applications
+- 🧠 Passionate about system design and backend architecture
+- 🌏 Based in India
+
+---
 
 ## 🚀 Tech Stack
-- Frontend: React.js, JavaScript, HTML, CSS
-- Backend: Node.js, Express
-- Database: PostgreSQL, MySQL
-- Cloud: AWS S3 , Azure, RDS
-- Tools: Git, Docker, Redis, Ec2
 
-## 💼 Work
-Full Stack Developer at Seekright.
+**Frontend**
+- React.js
+- JavaScript
+- HTML5
+- CSS3
 
-I work on internal platforms involving:
-- Multi-tenant database architecture
-- Asset monitoring systems
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+
+**Database**
+- PostgreSQL
+- MySQL
+
+**Cloud & Tools**
+- AWS S3
+- Redis
+- Git
+- Docker
+
+---
+
+## 💼 Professional Experience
+
+Currently working as a **Full Stack Developer** building internal enterprise platforms.
+
+Work includes:
+
+- Multi-tenant backend architecture
+- Asset monitoring platforms
 - Video anomaly detection APIs
-- Site & department access control systems
+- Role-based access control systems
+- Large-scale data processing APIs
 
-## 📂 Featured Projects
-- Asset Monitoring Platform
-- Video Analytics Dashboard
-- Multi-Tenant Backend System
+⚠️ Most production repositories are private company repositories.
 
-## 📫 Contact
-LinkedIn: https://linkedin.com/in/lavanya-n-94b56620b  
-Email: lavanyabalagiri@gmail.com
+---
+
+## 📌 Featured Projects
+
+Here are some example projects demonstrating my skills.
+
+### Multi-Tenant SaaS Backend
+Node.js backend implementing tenant-based database architecture.
+
+Tech:
+Node.js | PostgreSQL | Express
+
+---
+
+### Asset Monitoring Dashboard
+A React dashboard for tracking and monitoring infrastructure assets.
+
+Tech:
+React | REST APIs | Node.js
+
+---
+
+### Video Analytics API
+Backend service for anomaly detection and video processing workflows.
+
+Tech:
+Node.js | Python | AI pipelines
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lavanyanaidu1&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyanaidu1&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn  
+https://www.linkedin.com/in/lavanya-n-94b56620b/
+
+Email  
+lavanyabalagiri@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
