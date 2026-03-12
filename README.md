@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Lavanya 👋
 
-<!--
-**lavanyabalagiri/lavanyabalagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer with 4+ years experience building scalable web applications.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Frontend: React.js, JavaScript, HTML, CSS
+- Backend: Node.js, Express
+- Database: PostgreSQL, MySQL
+- Cloud: AWS S3 , Azure, RDS
+- Tools: Git, Docker, Redis, Ec2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Work
+Full Stack Developer at Seekright.
+
+I work on internal platforms involving:
+- Multi-tenant database architecture
+- Asset monitoring systems
+- Video anomaly detection APIs
+- Site & department access control systems
+
+## 📂 Featured Projects
+- Asset Monitoring Platform
+- Video Analytics Dashboard
+- Multi-Tenant Backend System
+
+## 📫 Contact
+LinkedIn: https://linkedin.com/in/lavanya-n-94b56620b  
+Email: lavanyabalagiri@gmail.com
