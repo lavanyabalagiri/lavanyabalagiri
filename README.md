@@ -80,13 +80,6 @@ Backend service for anomaly detection and video processing workflows.
 Tech:
 Node.js | Python | AI pipelines
 
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lavanyanaidu1&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyanaidu1&layout=compact)
 
 ---
 
